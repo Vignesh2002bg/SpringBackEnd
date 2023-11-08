@@ -1,2 +1,2 @@
 # SpringBackEnd
-API's
+"Develop an Employee Data API using the MVC design pattern, separating the application into three key components: the Model (for data handling and business logic), the View (for presentation and user interface), and the Controller (for managing user requests and interactions). This structured approach enhances maintainability and scalability, ensuring a robust and organized API for managing employee information."
